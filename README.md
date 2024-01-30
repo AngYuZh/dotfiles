@@ -1,2 +1,3 @@
 # dotfiles
-My personal dotfiles.
+
+Dotfiles are how you personalize your system.
